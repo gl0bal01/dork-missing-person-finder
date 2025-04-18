@@ -1,9 +1,9 @@
-# OSINT Missing Person Finder
+# DORK OSINT Missing Person Finder
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
 
-A powerful OSINT (Open Source Intelligence) tool designed to search for missing persons using Google dorks and various search techniques. This tool automates the search process across multiple engines and databases to help locate individuals based on their name.
+A DORK OSINT (Open Source Intelligence) tool designed to search for missing persons using Google dorks and various search techniques. This tool automates the search process across multiple engines and databases to help locate individuals based on their name.
 
 ## Features
 
